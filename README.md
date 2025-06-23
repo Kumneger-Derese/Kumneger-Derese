@@ -12,8 +12,8 @@
 ## 🚀 Tech Stack
 
 **Frontend**
-- React ⚛️, Next.js ⚡, Tailwind CSS 💨, Expo Router 📱  
-- Zustand 🐻, React Query ⚙️, Framer Motion 🎞️  
+- React ⚛️, React Native, Expo 📱, Next.js ⚡, Tailwind CSS 💨 
+- Zustand 🐻, React Query ⚙️, Framer Motion 🎞️ ,Redux
 
 **Backend**
 - Node.js 🌐, Express 🚀, MongoDB 🍃, JWT 🔐  
@@ -21,7 +21,7 @@
 
 **Tools**
 - Git & GitHub 🧬, VS Code 🖊️, Insomnia / Postman 🧪  
-- Figma 🎨, Canva ✨
+- Figma 🎨, Canva ✨, Xd
 
 ---
 
