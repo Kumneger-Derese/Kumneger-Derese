@@ -25,19 +25,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Kumneger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumnegerderese&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumnegerderese&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 📱 Featured Projects
 
 - 🔨 [Practice X (In Progress)](https://github.com/kumnegerderese/practicex) – Master skills through task-based progress tracking  
-- 🛒 [Hyper task](https://github.com/kumnegerderese/mern-ecommerce) 
-- 📝 [Royal Blog](https://github.com/kumnegerderese/notes-app) 
+- 🛒 [Hyper task](https://github.com/Kumneger-Derese/Hyper-Task) - Extended task mangement app
+- 📝 [Royal Blog](https://github.com/Kumneger-Derese/Royal-Blog-App) -Robust blogging app with rich text editor.
 
 ---
 
