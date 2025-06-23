@@ -1,16 +1,63 @@
-## Hi there 👋
+<!-- Profile README for Kumneger Derese -->
 
-<!--
-**Kumneger-Derese/Kumneger-Derese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello World, I'm Kumneger Derese!
 
-Here are some ideas to get you started:
+🎯 A passionate **Full-Stack MERN Developer** and **React Native App Builder** from **Ethiopia**  
+💻 I build beautiful, high-performance web & mobile apps with modern tech  
+📱 Currently working on: **Practice X** – a skills mastery app  
+🧠 Learning: TypeScript, Reanimated, Zustand, Redis, and scalable backend patterns  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+**Frontend**
+- React ⚛️, Next.js ⚡, Tailwind CSS 💨, Expo Router 📱  
+- Zustand 🐻, React Query ⚙️, Framer Motion 🎞️  
+
+**Backend**
+- Node.js 🌐, Express 🚀, MongoDB 🍃, JWT 🔐  
+- Joi 🧪, Redis ⚡, Cloudinary ☁️  
+
+**Tools**
+- Git & GitHub 🧬, VS Code 🖊️, Insomnia / Postman 🧪  
+- Figma 🎨, Canva ✨
+
+---
+
+## 📊 GitHub Stats
+
+![Kumneger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumnegerderese&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumnegerderese&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📱 Featured Projects
+
+- 🔨 [Practice X (In Progress)](https://github.com/kumnegerderese/practicex) – Master skills through task-based progress tracking  
+- 🛒 [Hyper task](https://github.com/kumnegerderese/mern-ecommerce) 
+- 📝 [Royal Blog](https://github.com/kumnegerderese/notes-app) 
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [kumnegerderese1@gmail.com](mailto:kumnegerderese1@gmail.com)  
+- 🌐 Portfolio: Coming soon...    
+- 💼 LinkedIn: [kumneger](https://www.linkedin.com/in/kumneger-derese-60a99b267/)
+
+---
+
+## 💡 Fun Facts
+
+- 🔥 I love building reusable backend APIs and smooth animated UIs  
+- 🎥 I enjoy tech movies & tutorials  
+- 👨‍🏫 I like sharing what I learn and helping others  
+- 🧠 I'm a self-taught dev who believes in daily improvement  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=kumnegerderese&style=flat-square&color=blue)
+
+
